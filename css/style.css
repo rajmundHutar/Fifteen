@@ -1,0 +1,29 @@
+body {
+    font-family:Verdana, Sans-Serif; 
+    background-color: rgb(255,199,106);
+    color: black;
+    font-size: 12pt;
+}
+
+A { 
+    font-family:Verdana, Sans-Serif; 
+    font-weight:bold; 
+    text-decoration:none; 
+    color:white; 
+    font-size:14pt; 
+} 
+
+A:hover { 
+    background-color:white; 
+    color:#001623;
+} 
+
+.napoveda { 
+    background-image: url('./napoveda.jpg');
+    background-repeat: no-repeat;
+    width:200px;
+}
+
+.menu{
+    padding-top:20px;
+}
